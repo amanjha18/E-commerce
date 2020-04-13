@@ -10,3 +10,5 @@
  ### Run this command
     $ python manage.py runserver
     
+# hosting link
+http://aman18.pythonanywhere.com/
