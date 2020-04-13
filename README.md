@@ -10,6 +10,5 @@
  ### Run this command
     $ python manage.py runserver
     
-# hosting link
-http://aman18.pythonanywhere.com/
-[I'm an inline-style link](http://aman18.pythonanywhere.com/)
+# hosted link
+(http://aman18.pythonanywhere.com/)
